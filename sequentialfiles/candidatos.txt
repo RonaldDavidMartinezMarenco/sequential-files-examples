@@ -1,0 +1,5 @@
+Ana Perez	Calle 1	555100001	9.5	1
+Luis Gomez	Calle 2	555100002	8.7	2
+Maria Lopez	Calle 3	555100003	9.8	3
+Carlos Ruiz	Calle 4	555100004	7.9	4
+Sofia Torres	Calle 5	555100005	9.1	5
